@@ -5,6 +5,7 @@
 <h1 align="center">
     🚀 Ignite Timer
 </h1>
+<p align="center">Desafio do Bootcamp Ignite sobre fundamentos de ReactJS</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/react%20version-18.0.1-informational"/>
