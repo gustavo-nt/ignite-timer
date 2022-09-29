@@ -33,7 +33,7 @@
 - [x] Iniciar tarefa
 
 ### 💻 Projeto
-Ignite Timer é uma plataforma dimensionar melhor o tempo dos usuário perante a cada atividade. Esse Projeto foi desenvolvido na Semana 02 do Bootcamp Ignite.
+Ignite Timer é uma plataforma dimensionar melhor o tempo dos usuário perante a cada atividade. Esse Projeto foi desenvolvido durante a Semana 02 do Bootcamp Ignite.
 
 ### ✅ Demonstração
 <img src="https://github.com/gustavo-nt/ignite-timer/blob/master/src/assets/cover.png" alt="Imagem de demonstração" />
