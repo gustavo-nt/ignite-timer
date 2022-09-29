@@ -30,9 +30,12 @@
 
 - [x] Lista de tarefas
 - [x] Interromper tarefa
-- [x] Iiciar tarefa
+- [x] Iniciar tarefa
 
-### 💻 Demonstração
+### 💻 Projeto
+Ignite Timer é uma plataforma dimensionar melhor o tempo dos usuário perante a cada atividade. Esse Projeto foi desenvolvido na Semana 02 do Bootcamp Ignite.
+
+### ✅ Demonstração
 <img src="https://github.com/gustavo-nt/ignite-timer/blob/master/src/assets/cover.png" alt="Imagem de demonstração" />
 
 ### ⚙ Pré-requisitos
@@ -48,10 +51,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone https://github.com/gustavo-nt/ignite-timer
 
 # Instale as dependências
-$ yarn
+$ yarn ou npm
 
 # Execute a aplicação
-$ yarn dev
+$ yarn ou npm dev
 ```
 
 ### 🚀 Tecnologias
